@@ -84,12 +84,25 @@ The objective is to identify **who the most valuable customers are**, how value 
 
 ---
 
-## ⚡ Recommendation Snapshot
+## ⚡ Strategic Recommendation Snapshot
 
-- **Protect Champions** → Retention-first strategy  
-- **Grow Loyal Customers** → Increase purchase frequency  
-- **Convert Potential Loyalists** → Push second purchase early  
-- **Selective Win-Back** → Focus only on high-value at-risk customers  
+- **Retain and insulate the Champion segment (13% → 63% revenue)**  
+  Prioritize retention through VIP treatment — early product access, dedicated support, and loyalty structures tied to purchase frequency. Even a small drop in this segment creates disproportionate revenue loss.
+
+- **Use Loyal Customers as the primary growth engine**  
+  The gap between Loyal and Champions is driven by frequency (4.2 → 15.8 orders). Introduce frequency-led interventions such as bundles, subscriptions, and repeat-purchase incentives to systematically move this segment upward.
+
+- **Convert first-time buyers before the 60-day drop-off window**  
+  ~34% of customers purchase only once. Deploy structured post-purchase journeys (education, personalization, reminders) within the first 30–60 days to drive second-order conversion.
+
+- **Apply selective, value-based win-back instead of blanket reactivation**  
+  At-risk customers show low average CLV (£4.8K), making mass campaigns inefficient. Focus only on historically high-value users and limit outreach to one high-impact re-engagement attempt.
+
+- **Reduce revenue concentration risk by expanding the mid-tier base**  
+  Over-reliance on Champions creates structural vulnerability. Growth strategy should focus on scaling Loyal Customer value to build a broader, more stable revenue foundation.
+
+- **Use CLV as the primary driver for marketing budget allocation**  
+  Allocate spend proportionally — high CLV segments justify high-touch engagement, while low CLV segments should be handled through automated, low-cost channels.
 
 ---
 
